@@ -249,6 +249,38 @@
 ### Challenge description
 > A function that takes two numbers, both of which are integers, then returns an array containing all the prime numbers between those two numbers.
 ----------------------------------------------------------------
+## [Prallelogram perimeter](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/perimeterOfPrallelogram.py)
+### Challenge description
+> A function that takes two decimal digits representing the length and base of a parallelogram. The function calculates the perimeter of the parallelogram and returns the result.
+----------------------------------------------------------------
+## [Array mean](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/getMean.py)
+### Challenge description
+> A function that receives an array of type integer. The function calculates the mean of the array and returns the result.
+----------------------------------------------------------------
+## [Circumference rhombus](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/circumferenceOfRhombus.py)
+### Challenge description
+> A function that receives a float number representing the side length of a rhombus. The function calculates the perimeter of the rhombus and returns its result.
+----------------------------------------------------------------
+## [Circle Area](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/findCircleArea.py)
+### Challenge description
+> A function that receives a decimal number representing the radius of a circle. The function calculates the area of ​​a circle and returns the result.Note: Replace pi with the value 3.14.
+----------------------------------------------------------------
+## [Parallelogram area](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/areaOfParallelogram.py)
+### Challenge description
+> A function that takes two decimal places, the length of the base of the parallelogram and its height. This function calculates the area of ​​a parallelogram and returns its value.
+----------------------------------------------------------------
+## [Countdown to three](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/countDown.py)
+### Challenge description
+> A function that receives an integer. This function counts down from that number by three digits down to zero, and then returns an array of even numbers for that countdown in ascending order. If the countdown does not contain numbers (because the passed boundary is 3 or less), the value [0] will be returned.
+----------------------------------------------------------------
+## [Factorial](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/factorial.py)
+### Challenge description
+> A function that receives an integer of type integer, and function returns the factorial of the entered number.
+----------------------------------------------------------------
+## [Odd even](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/oddEven.py)
+### Challenge description
+> A function that receives a number of type integer, function returns a value of type string indicating whether the number is even or odd
+----------------------------------------------------------------
 
 
 
