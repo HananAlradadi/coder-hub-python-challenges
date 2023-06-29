@@ -289,4 +289,8 @@
 ### Challenge description
 > A function that takes two integers. The function checks that the numbers are equal so that it returns true if the numbers are equal, and false if the numbers are not equal.
 ----------------------------------------------------------------
+## [Char count](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/countChar.py)
+### Challenge description
+> A function receives two variables, the first is a text value of type string, and the second is a character of type string, the function calculates the frequency of the entered character from the text value, then the function returns the result of type integer.
+----------------------------------------------------------------
 
