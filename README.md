@@ -232,6 +232,23 @@
 ## [Collect and reverse words](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/reverseWords.py)
 ### Challenge description
 > A function that takes two values ​​of type string. The function sums the two values ​​as one value separated by a comma and reverses them, so that the second value is before the comma, and the first value is after the comma.
+----------------------------------------------------------------
+## [Array sum](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/calculateSum.py)
+### Challenge description
+> A function that receives an array of 4 digits. The function calculates the sum of the elements of that array and returns the result. If one of the numbers in the matrix is ​​7, then all numbers after that number do not count towards the grand total.
+----------------------------------------------------------------
+## [Cone volume](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/coneVolume.py)
+### Challenge description
+> A function receives two decimal numbers representing the radius and height of a right cone. The function calculates the volume of the cone and returns the result. Note: Replace pi with the value 3.14.
+----------------------------------------------------------------
+## [Circle circumference](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/calculateCircumference.py)
+### Challenge description
+> A function that receives a decimal number representing the radius of a circle. The function calculates the circumference of a circle and returns the result.
+----------------------------------------------------------------
+## [Prime numbers between two numbers](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/getPrimesBetween.py)
+### Challenge description
+> A function that takes two numbers, both of which are integers, then returns an array containing all the prime numbers between those two numbers.
+----------------------------------------------------------------
 
 
 
