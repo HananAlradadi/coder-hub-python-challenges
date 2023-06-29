@@ -229,6 +229,9 @@
 ### Challenge description
 > A function that receives an integer. The function checks whether the number is divisible by 5 or not by returning true if the number is divisible, and false if otherwise.
 ----------------------------------------------------------------
+## [Collect and reverse words](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/reverseWords.py)
+### Challenge description
+> A function that takes two values ​​of type string. The function sums the two values ​​as one value separated by a comma and reverses them, so that the second value is before the comma, and the first value is after the comma.
 
 
 
