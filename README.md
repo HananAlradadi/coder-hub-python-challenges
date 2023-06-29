@@ -225,6 +225,10 @@
 ### Challenge description
 > A function that receives an array of type integer. The function returns the elements that are similar in an array.
 ----------------------------------------------------------------
+## [Divisible by five](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/divisibleByFive.py)
+### Challenge description
+> A function that receives an integer. The function checks whether the number is divisible by 5 or not by returning true if the number is divisible, and false if otherwise.
+----------------------------------------------------------------
 
 
 
