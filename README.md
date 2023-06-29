@@ -56,6 +56,54 @@
 ### Challenge description
 > A function that receives two text values ​​of type string. If the two input values ​​contain numbers, the function sums the numbers and returns them as a text value. If one of the inputs contains characters, it returns -1 as a text value.
 ----------------------------------------------------------------
+## [Number is even or odd](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/isEvenOrOdd.py)
+### Challenge description
+> A function that receives an integer. The function returns the value odd if the number is odd, and the value even if the number is even.
+----------------------------------------------------------------
+## [Leet Vowels](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/leetVowels.py)
+### Challenge description
+> A function that receives two variables, the first variable is a text of type string and the second variable is a number of type integer, it uses the vowel of the entered text depending on the number entered. It returns an invalid message, it returns characters of type String based on the number entered.
+----------------------------------------------------------------
+## [Conversion from 12 hours to 24 hours and vice versa](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/convertTime.py)
+### Challenge description
+> A function that receives a string value that expresses the hour as a 12 or 24-hour system and converts between them, append the 12-hour system to am or pm and then return the result as a string
+----------------------------------------------------------------
+## [Word separation](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/capSpace.py)
+### Challenge description
+> A function that receives a text value of type String, the function separates words when an uppercase letter is noted by putting a sign and converting it to lowercase, then returns the result of type String
+----------------------------------------------------------------
+## [Add numbers to array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/addFive.py)
+### Challenge description
+> A function that receives an array of type string. The function  returns the result as an array of type string after adding the number 5 to each element in the array. If the array is empty, the function returns the array as it is without adding.
+----------------------------------------------------------------
+## [Subtract the elements of two array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/subArrays.py)
+### Challenge description
+> A function takes two arrays of type integer, and function subtracts the elements in the first array from the elements in the second array, then returns an array of type integer
+----------------------------------------------------------------
+## [The number of characters in the element](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/wordLength.py)
+### Challenge description
+> A function receives an array of type string, the function counts the number of characters for each element in the array into a new array, and then the function returns this array.
+----------------------------------------------------------------
+## [Find the unique element in array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/unique.py)
+### Challenge description
+> A function that receives an array of type integer. The function searches for the unique numbers in the array and then returns them in a new array.
+----------------------------------------------------------------
+## [Max element in array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/maxElement.py)
+### Challenge description
+> A function that receives an array of type integer, the function returns the largest number in the array.
+----------------------------------------------------------------
+## [Min element in array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/minElement.py)
+### Challenge description
+> A function receives an array of type integer, and the function returns the smallest value among those values
+----------------------------------------------------------------
+## [Cumulative array sum](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/cumulativeSum.py)
+### Challenge description
+> A function that receives an array of type integer, the function adds the value of the element with all the previous values ​​in the array and then returns the result as an array of type integer
+> [a,b,c,...] => [a,a+b,a+b+C,...]
+----------------------------------------------------------------
+## [Check for a space in the sentence](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/hasSpace.py)
+### Challenge description
+> A function receives a text value of type string, the function checks whether there is a space in the text or not, if there is a space, replace each space with a # sign, then the function returns the result of type string
+----------------------------------------------------------------
 
- 
 
