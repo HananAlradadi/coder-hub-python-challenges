@@ -217,4 +217,10 @@
 ### Challenge description
 > A function that takes two float floats representing the length of the diagonal of a rhombus. The function calculates the area of ​​the rhombus and returns its result.
 ----------------------------------------------------------------
+## [String length comparison](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/strLenComparison.py)
+### Challenge description
+> A function that receives an array of text values, that function compares the text values ​​and returns true if the number of characters for all text is the same, and returns false otherwise. If the array is empty or contains only one element, return false.
+----------------------------------------------------------------
+
+
 
