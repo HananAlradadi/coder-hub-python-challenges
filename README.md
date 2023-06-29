@@ -197,7 +197,7 @@
 ### Challenge description
 > A function that receives an array of integers, then the function returns the number of elements of that array.
 ----------------------------------------------------------------
-## [largest and smallest value in array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/largestSmallest.py)
+## [Largest and smallest value in array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/largestSmallest.py)
 ### Challenge description
 > A function that takes an array of type integer and returns the largest and smallest number in the array.
 ----------------------------------------------------------------
@@ -209,15 +209,12 @@
 ### Challenge description
 > A function that receives an array of type string. The function appends the symbol # to all elements of the array and returns the result as a text value.
 ----------------------------------------------------------------
-## []()
+## [Cumulative addition](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/cumulativeAddition.py)
 ### Challenge description
-> 
+> A function that takes an array of type integer and returns the sum of all numbers and the number of elements in the array.
 ----------------------------------------------------------------
-## []()
+## [Rhombus area](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/rhombusArea.py)
 ### Challenge description
-> 
+> A function that takes two float floats representing the length of the diagonal of a rhombus. The function calculates the area of ​​the rhombus and returns its result.
 ----------------------------------------------------------------
-## []()
-### Challenge description
-> 
-----------------------------------------------------------------
+
