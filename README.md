@@ -201,3 +201,23 @@
 ### Challenge description
 > A function that takes an array of type integer and returns the largest and smallest number in the array.
 ----------------------------------------------------------------
+## [Average of array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/average.py)
+### Challenge description
+> A function that receives an array of integers. This function returns the arithmetic mean of these numbers.
+----------------------------------------------------------------
+## [Hashtag it](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/hashtagIt.py)
+### Challenge description
+> A function that receives an array of type string. The function appends the symbol # to all elements of the array and returns the result as a text value.
+----------------------------------------------------------------
+## []()
+### Challenge description
+> 
+----------------------------------------------------------------
+## []()
+### Challenge description
+> 
+----------------------------------------------------------------
+## []()
+### Challenge description
+> 
+----------------------------------------------------------------
