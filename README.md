@@ -221,6 +221,10 @@
 ### Challenge description
 > A function that receives an array of text values, that function compares the text values ​​and returns true if the number of characters for all text is the same, and returns false otherwise. If the array is empty or contains only one element, return false.
 ----------------------------------------------------------------
+## [Get duplicate elements](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/getDuplicateElements.py)
+### Challenge description
+> A function that receives an array of type integer. The function returns the elements that are similar in an array.
+----------------------------------------------------------------
 
 
 
