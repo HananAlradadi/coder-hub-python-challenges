@@ -281,6 +281,12 @@
 ### Challenge description
 > A function that receives a number of type integer, function returns a value of type string indicating whether the number is even or odd
 ----------------------------------------------------------------
-
-
+## [Find the element in the array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/search.py)
+### Challenge description
+> A function that receives a string value and a character. The function finds the first index matching the entered character and returns the index number of that character. The function returns -1 if there is no match.
+----------------------------------------------------------------
+## [Equal check](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/equalCheck.py)
+### Challenge description
+> A function that takes two integers. The function checks that the numbers are equal so that it returns true if the numbers are equal, and false if the numbers are not equal.
+----------------------------------------------------------------
 
