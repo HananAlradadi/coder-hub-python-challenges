@@ -317,7 +317,7 @@
 ### Challenge description
 > A function that receives a string value. The function checks whether the text value is empty or not by returning true if there is empty text and false otherwise.
 ----------------------------------------------------------------
-## [Exponent Cube](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/exponentCube.py)
+## [Exponent cube](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/exponentCube.py)
 ### Challenge description
 > A function that receives an integer. The function returns the exponent cube of this number.
 ----------------------------------------------------------------
