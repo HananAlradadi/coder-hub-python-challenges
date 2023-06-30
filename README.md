@@ -309,4 +309,17 @@
 ### Challenge description
 > A function takes two integers, the first value representing the number and the second value representing the exponent. The function calculates the exponent of that number and returns the result.
 ----------------------------------------------------------------
+## [Get biggest shared](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/getBiggestShared.py)
+### Challenge description
+> A function that takes two arrays and returns the largest number that the two arrays intersect.
+----------------------------------------------------------------
+## [Is empty](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/isEmpty.py)
+### Challenge description
+> A function that receives a string value. The function checks whether the text value is empty or not by returning true if there is empty text and false otherwise.
+----------------------------------------------------------------
+## [Exponent Cube](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/exponentCube.py)
+### Challenge description
+> A function that receives an integer. The function returns the exponent cube of this number.
+----------------------------------------------------------------
+
 
