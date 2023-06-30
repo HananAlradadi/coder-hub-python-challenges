@@ -293,4 +293,20 @@
 ### Challenge description
 > A function receives two variables, the first is a text value of type string, and the second is a character of type string, the function calculates the frequency of the entered character from the text value, then the function returns the result of type integer.
 ----------------------------------------------------------------
+## [Find prefix](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/findPrefix.py)
+### Challenge description
+> A function receives a String value containing part of the beginning of a word, and an Array containing several words. The function returns an array containing words that begin with the same text as passed. If the array contains no matches, return an array with the text value No matches found.
+----------------------------------------------------------------
+## [Concat names](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/concatNames.py)
+### Challenge description
+> A function that takes two string values, sums them up, and returns them as a single space-separated string value.
+----------------------------------------------------------------
+## [Adding even numbers in array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/sumEven.py)
+### Challenge description
+> A function that receives an array of type integer, the function adds only even numbers and returns the result as an integer.
+----------------------------------------------------------------
+## [Pass the value of the exponent](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/exponentX.py)
+### Challenge description
+> A function takes two integers, the first value representing the number and the second value representing the exponent. The function calculates the exponent of that number and returns the result.
+----------------------------------------------------------------
 
