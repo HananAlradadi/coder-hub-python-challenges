@@ -321,5 +321,17 @@
 ### Challenge description
 > A function that receives an integer. The function returns the exponent cube of this number.
 ----------------------------------------------------------------
+## [Delete element in array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/DeleteElementInArray.py)
+### Challenge description
+> A function that takes two values, the first is an array of type integer and the second is a positive integer that is a non-negative integer. It deletes the for loop containing the same index number as the initialized function from the array and returns a new array resulting from the delete operation.
+----------------------------------------------------------------
+## [Left digit](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/leftDigit.py)
+### Challenge description
+> A function receives a string value, the function extracts the first leftmost number, then the function returns the result of type integer.
+----------------------------------------------------------------
+## [Input type](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/inputType.py)
+### Challenge description
+> A function that receives a string value. The function determines the type of the value inside the string value, whether it is string, integer, or float, and returns the type of the value.
+----------------------------------------------------------------
 
 
