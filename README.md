@@ -333,5 +333,9 @@
 ### Challenge description
 > A function that receives a string value. The function determines the type of the value inside the string value, whether it is string, integer, or float, and returns the type of the value.
 ----------------------------------------------------------------
+## [Recurring Stocks](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/RecurringStocks.py)
+### Challenge description
+> A function that receives a string consisting of letters and replaces the characters with one of two symbols (>) or (<). If the character is repeated in the word, it is converted to >, and if the character is not repeated, it is converted to <.
+----------------------------------------------------------------
 
 
