@@ -341,5 +341,9 @@
 ### Challenge description
 > A function that receives an integer. The function finds its cube root and returns the result.
 ----------------------------------------------------------------
+## [Root as per condition](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Rootaspercondition.py)
+### Challenge description
+> A function that receives two numbers, the first is an integer and the second is a decimal number that represents the square root of this number. The function checks whether the square root is equal to the entered number. If the result is correct, the function returns the result. Otherwise, the function returns the number 0.
+----------------------------------------------------------------
 
 
