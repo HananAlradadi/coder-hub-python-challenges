@@ -337,7 +337,7 @@
 ### Challenge description
 > A function that receives a string consisting of letters and replaces the characters with one of two symbols (>) or (<). If the character is repeated in the word, it is converted to >, and if the character is not repeated, it is converted to <.
 ----------------------------------------------------------------
-## [Cube root](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/RecurringStocks.py](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/cube_root.py)
+## [Cube root](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/cube_root.py)
 ### Challenge description
 > A function that receives an integer. The function finds its cube root and returns the result.
 ----------------------------------------------------------------
