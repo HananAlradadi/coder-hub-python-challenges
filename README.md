@@ -345,5 +345,9 @@
 ### Challenge description
 > A function that receives two numbers, the first is an integer and the second is a decimal number that represents the square root of this number. The function checks whether the square root is equal to the entered number. If the result is correct, the function returns the result. Otherwise, the function returns the number 0.
 ----------------------------------------------------------------
+## [The sum of the two lowest numbers in the array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/theSumOfTheTwoLowestNumbersInTheArray.py)
+### Challenge description
+> A function that receives an array of type integers. The function sums the two lowest numbers in the array and returns the result.
+----------------------------------------------------------------
 
 
