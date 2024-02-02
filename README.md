@@ -349,5 +349,8 @@
 ### Challenge description
 > A function that receives an array of type integers. The function sums the two lowest numbers in the array and returns the result.
 ----------------------------------------------------------------
-
+## [Merging two array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/MergingTwoArray.py)
+### Challenge description
+> A function that receives two arrays consisting of ordered integers. This function merges the two arrays into one array in an ordered manner and then returns them.
+----------------------------------------------------------------
 
