@@ -361,3 +361,11 @@
 ### Challenge description
 > A function that receives the string text, and your task is to find the longest occurrence of letters in the text.
 ----------------------------------------------------------------
+## [Verify letters](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/VerifyLetters.py)
+### Challenge description
+> A function that receives the text of type string. The function checks whether all letters have the same case sensitivity in the entered word or not. The function then returns the result of type boolean.
+----------------------------------------------------------------
+## [Sqrt](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Sqrt.py)
+### Challenge description
+> A function that receives a decimal number. The function calculates its square root and returns the result.
+----------------------------------------------------------------
