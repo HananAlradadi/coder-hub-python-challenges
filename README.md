@@ -369,3 +369,16 @@
 ### Challenge description
 > A function that receives a decimal number. The function calculates its square root and returns the result.
 ----------------------------------------------------------------
+## [Reverse letter case](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/ReverseLetterCase.py)
+### Challenge description
+> A function that receives a value of type string. The function changes the case of letters by converting a lowercase letter to an uppercase letter and vice versa and then returns a value of the typed string.
+----------------------------------------------------------------
+## [Remove symbols from texts](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/RemoveSymbolsFromTexts.py)
+### Challenge description
+> A function that receives a text value of type string. The function removes all symbols such as ($,!,@,#,.) except for (- _). Then the function returns the text string after the removal process.
+----------------------------------------------------------------
+## [Radius of the circle](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/RadiusOfTheCircle.py)
+### Challenge description
+> A function that receives a positive decimal number representing the circumference of the circle. The function calculates the radius and returns its result.
+Note: Substitute the constant pi with the value 3.14.
+----------------------------------------------------------------
