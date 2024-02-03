@@ -357,4 +357,7 @@
 ### Challenge description
 > A function that receives a text value of type string. The function arranges the words according to their length, from shortest to longest. If there are two words of the same length, the order is alphabetical. Then the function returns the result of the type string.
 ----------------------------------------------------------------
-
+## [Longest repetition](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/LongestRepetition.py)
+### Challenge description
+> A function that receives the string text, and your task is to find the longest occurrence of letters in the text.
+----------------------------------------------------------------
