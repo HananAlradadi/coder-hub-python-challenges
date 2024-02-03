@@ -382,3 +382,7 @@
 > A function that receives a positive decimal number representing the circumference of the circle. The function calculates the radius and returns its result.
 Note: Substitute the constant pi with the value 3.14.
 ----------------------------------------------------------------
+## [Delete similar elements in the array](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/DeleteSimilarElementsInTheArray.py)
+### Challenge description
+> A function that receives an array of type integers. The function deletes similar elements in the same array and returns an array of type integers.
+----------------------------------------------------------------
