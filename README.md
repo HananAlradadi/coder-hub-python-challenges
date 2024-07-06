@@ -386,3 +386,7 @@ Note: Substitute the constant pi with the value 3.14.
 ### Challenge description
 > A function that receives an array of type integers. The function deletes similar elements in the same array and returns an array of type integers.
 ----------------------------------------------------------------
+## [Replace The](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/ReplaceThe.py)
+### Challenge description
+> A function that receives a text value of type string. The function replaces the with a or an according to the English rule, then returns the result of type string.
+----------------------------------------------------------------
