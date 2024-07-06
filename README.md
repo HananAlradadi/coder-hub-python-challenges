@@ -396,7 +396,11 @@ Note: Substitute the constant pi with the value 3.14.
 ----------------------------------------------------------------
 ## [Digital countdown timer](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Digitalcountdowntimer.py)
 ### Challenge description
-> A a function that receives an integer. The function returns numbers descending from the entered number to the value 0 as a string separated by a space.
+> A  function that receives an integer. The function returns numbers descending from the entered number to the value 0 as a string separated by a space.
+----------------------------------------------------------------
+## [Print a series of numbers](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Printaseriesofnumbers.py)
+### Challenge description
+> A function that receives a number of type integer, and the function prints numbers from zero to the same number entered as a text value of type string.
 ----------------------------------------------------------------
 
 
