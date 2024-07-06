@@ -394,4 +394,9 @@ Note: Substitute the constant pi with the value 3.14.
 ### Challenge description
 > A function that accepts two variables of type string. The function must return yes if the text in the target variable can be formed from the characters in the source, without taking into account the order of the letters or the difference between lowercase and uppercase letters. It returns no otherwise.
 ----------------------------------------------------------------
+## [Digital countdown timer](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Digitalcountdowntimer.py)
+### Challenge description
+> A a function that receives an integer. The function returns numbers descending from the entered number to the value 0 as a string separated by a space.
+----------------------------------------------------------------
+
 
