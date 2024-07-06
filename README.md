@@ -390,3 +390,8 @@ Note: Substitute the constant pi with the value 3.14.
 ### Challenge description
 > A function that receives a text value of type string. The function replaces the with a or an according to the English rule, then returns the result of type string.
 ----------------------------------------------------------------
+## [Can text be formed?](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Cantextbeformed.py)
+### Challenge description
+> A function that accepts two variables of type string. The function must return yes if the text in the target variable can be formed from the characters in the source, without taking into account the order of the letters or the difference between lowercase and uppercase letters. It returns no otherwise.
+----------------------------------------------------------------
+
