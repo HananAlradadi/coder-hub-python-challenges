@@ -410,3 +410,7 @@ Note: Substitute the constant pi with the value 3.14.
 ### Challenge description
 > A function that receives two dates in the form of a string. The first date represents the start date and the second date represents the end date. The function returns the value True if the two entered dates are correct, and it returns the value False if either or one of the entered dates is wrong, according to the following conditions: 1. The start date must precede the end date 2. The start and end dates must be before today's date 3. The format of the dates passed to the function is in text format consisting of a date and time.
 ----------------------------------------------------------------
+## [Convert an octal number to a decimal number](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Convert%20an%20octal%20numbertoadecimalnumber.py)
+### Challenge description
+> A function that receives a variable of type int that expresses the value of an octal number, then the function returns the result after converting to a decimal value of type int.
+----------------------------------------------------------------
