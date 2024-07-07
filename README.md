@@ -406,4 +406,7 @@ Note: Substitute the constant pi with the value 3.14.
 ### Challenge description
 > A function that receives two values, a string and a positive integer. The function iterates the entered text according to the number passed.
 ----------------------------------------------------------------
-
+## [Time period](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/TimePeriod.py)
+### Challenge description
+> A function that receives two dates in the form of a string. The first date represents the start date and the second date represents the end date. The function returns the value True if the two entered dates are correct, and it returns the value False if either or one of the entered dates is wrong, according to the following conditions: 1. The start date must precede the end date 2. The start and end dates must be before today's date 3. The format of the dates passed to the function is in text format consisting of a date and time.
+----------------------------------------------------------------
