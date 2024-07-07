@@ -402,5 +402,8 @@ Note: Substitute the constant pi with the value 3.14.
 ### Challenge description
 > A function that receives a number of type integer, and the function prints numbers from zero to the same number entered as a text value of type string.
 ----------------------------------------------------------------
-
+## [Repeat text](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/wordrepeat.py)
+### Challenge description
+> A function that receives two values, a string and a positive integer. The function iterates the entered text according to the number passed.
+----------------------------------------------------------------
 
