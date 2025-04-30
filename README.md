@@ -414,7 +414,11 @@ Note: Substitute the constant pi with the value 3.14.
 ### Challenge description
 > A function that receives a variable of type int that expresses the value of an octal number, then the function returns the result after converting to a decimal value of type int.
 ----------------------------------------------------------------
-## [Sorting an Array in Ascending Order]([https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Convert%20an%20octal%20numbertoadecimalnumber.py](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Sorting-an-Array-in-Ascending-Order.py)
+## [Sorting an Array in Ascending Order](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Convert%20an%20octal%20numbertoadecimalnumber.py](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/Sorting-an-Array-in-Ascending-Order.py)
 ### Challenge description
 > A function that takes an array of integers and arranges its elements in ascending order. The function should return the sorted array.
+----------------------------------------------------------------
+## [Eid Radiance](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/EidRadiance.py)
+### Challenge description
+> During Eid Al-Fitr, charity campaigns are held to collect donations and support those in need. Daily donations are recorded, and the cumulative total of donations is calculated throughout the campaign period. Your task is to create a function that calculates the day on which the cumulative total of donations reaches a specified target.
 ----------------------------------------------------------------
