@@ -420,5 +420,9 @@ Note: Substitute the constant pi with the value 3.14.
 ----------------------------------------------------------------
 ## [Eid Radiance](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/EidRadiance.py)
 ### Challenge description
-> During Eid Al-Fitr, charity campaigns are held to collect donations and support those in need. Daily donations are recorded, and the cumulative total of donations is calculated throughout the campaign period. Your task is to create a function that calculates the day on which the cumulative total of donations reaches a specified target.
+> A function that receives an array of daily donation amounts and a number representing the overall donation target. The function should start by calculating the cumulative total for each day, and if the total exceeds or reaches the target on a specific day, the function should return the number of that day. If the total does not reach the target, the function should return -1.
+----------------------------------------------------------------
+## [Eid Radiance Gift Distribution](https://github.com/HananAlradadi/coder-hub-python-challenges/blob/main/EidRadianceGiftDistribution.py)
+### Challenge description
+> A function that receives an array containing the number of members in each family and the total number of purchased gifts. The function should calculate how many gifts each family member will receive equally. The function should return the results as an array showing the number of gifts each member of each family receives.
 ----------------------------------------------------------------
